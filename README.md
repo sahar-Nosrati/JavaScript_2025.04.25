@@ -1,1 +1,2 @@
-# JavaScript_2025.04.25
+# study JavaScript -> 
+  - study and finished Error, scop, hoisting
